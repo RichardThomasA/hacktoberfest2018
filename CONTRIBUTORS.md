@@ -960,3 +960,8 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name : [Richard Thomas](https://github.com/RichardThomasA)
+Place : Kerala,India
+About : Software Developer
+Programming Language: C,C++,Java
